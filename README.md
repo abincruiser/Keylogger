@@ -1,5 +1,5 @@
 # Keylogger
-
+<img align="left" src="https://i.imgur.com/cZQwgJU_d.webp?maxwidth=640&shape=thumb&fidelity=medium" alt="Keylogger">
 A project made for Cybersecurity Internship by Teachnook
 
 ### Team Members
@@ -10,5 +10,4 @@ A project made for Cybersecurity Internship by Teachnook
 * [Ashish Shaiju](https://github.com/ashishshaiju)
 * [Ashwin John](https://github.com/ashwin6113)
 * [Shabin Shaji](https://github.com/shabinshaji642)
- 
  
