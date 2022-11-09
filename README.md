@@ -1,5 +1,5 @@
 # Keylogger
-<img align="left" src="https://i.imgur.com/cZQwgJU_d.webp?maxwidth=640&shape=thumb&fidelity=medium" alt="Keylogger">
+<img align="right" src="https://i.imgur.com/cZQwgJU_d.webp?maxwidth=320&shape=thumb&fidelity=medium" alt="Keylogger">
 A project made for Cybersecurity Internship by Teachnook
 
 ### Team Members
