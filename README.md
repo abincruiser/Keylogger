@@ -1,5 +1,4 @@
-# Keylogger
-<img align="right" src="https://i.ibb.co/pQBD6mp/IMG-20221109-223658.png" alt="Keylogger">
+# Keylogger <img align="right" src="https://i.ibb.co/pQBD6mp/IMG-20221109-223658.png" alt="Keylogger">
 A project made for Cybersecurity Internship by Teachnook
 
 ### Team Members
